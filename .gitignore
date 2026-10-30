@@ -32,6 +32,9 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+# Database backups
+*.dump
+
 # env files (can opt-in for committing if needed)
 .env*
 
